@@ -4,3 +4,6 @@ a+b=c
 d=e
 matrix
 integral
+calculusa
+sub
+division
