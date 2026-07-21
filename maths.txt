@@ -5,3 +5,5 @@ d=e
 matrix
 integral
 calculus
+sub
+mulktiply
