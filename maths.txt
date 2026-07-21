@@ -1,4 +1,6 @@
 hi
 add
 a+b=c
-d=e=y
+d=e
+matrix
+integral
