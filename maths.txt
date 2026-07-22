@@ -8,3 +8,4 @@ calculusa
 division
 sub
 mulktiply
+statistics
