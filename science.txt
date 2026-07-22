@@ -1,0 +1,4 @@
+chem
+phy
+bot
+zolo
