@@ -1,6 +1,4 @@
 chem
 phy
-hyu
-kjiki
-bxshy
-hdhu
+bot
+zolo
