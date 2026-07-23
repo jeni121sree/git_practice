@@ -1,3 +1,4 @@
 chem
 phy
-hyu
+bot
+zolo

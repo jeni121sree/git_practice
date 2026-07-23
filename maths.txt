@@ -8,3 +8,5 @@ calculusa
 division
 sub
 mulktiply
+statistics
+git pull request practice
